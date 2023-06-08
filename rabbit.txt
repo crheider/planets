@@ -2,3 +2,5 @@ Hello, Rabbit.  Would you like a kale and mango smoothie?
 
 
 bananaman
+orangeman
+strawberry
